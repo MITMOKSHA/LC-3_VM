@@ -4,9 +4,9 @@
 - [x] Sign Extend
 - [x] Swap
 - [x] Update Flags
-- [ ] Read Image File
-- [ ] Read Image
-- [ ] Check Key
+- [x] Read Image File
+- [x] Read Image
+- [x] Check Key
 - [ ] Memory Access
 - [ ] Input Buffering
 - [ ] Handle Interrupt
